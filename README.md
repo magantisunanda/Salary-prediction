@@ -160,4 +160,3 @@ Based on this information, candidates can also decide the type of industry, loca
 
 The type of company and economy are important factors to consider when predicting salary but they are not included in the model. A start-up will pay less than a bigger company and salary will be lower during times of economic downturn. While it is important to consider the type of position and industry, we should also keep in mind other variables that are not included in the model.
 
-Please check the notebook for details: https://github.com/kbpavan/SalaryPredictions/blob/master/Project__.ipynb
